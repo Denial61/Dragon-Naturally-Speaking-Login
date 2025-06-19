@@ -6,7 +6,7 @@ How Do I Log In to Dragon NaturallySpeaking?
    :caption: Contents:
 Learn how to access your Dragon NaturallySpeaking login for smooth voice recognition setup, cloud syncing, and productivity tools across your devices.
 
-.. image:: login.jpg
+.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
    :alt: Dragon Naturally Login Account
    :width: 400px
    :align: center
