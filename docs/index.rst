@@ -6,11 +6,11 @@ How Do I Log In to Dragon NaturallySpeaking?
    :caption: Contents:
 Learn how to access your Dragon NaturallySpeaking login for smooth voice recognition setup, cloud syncing, and productivity tools across your devices.
 
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Dragon Naturally Login Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/dragon-naturally-speaking
+   :target: https://dragonnaturallyspeakingaccount.com/
 
 Everyone from students to working professionals may rely on Dragon NaturallySpeaking, a famous speech recognition program, to help them get more done with their voices.  The first step in using Dragon NaturallySpeaking, whether you want to compose emails, make documents, or use it as a hands-free keyboard, is to log into your account.  Voice profile syncing, cloud feature access, and preference management are all made easy with this.
 
